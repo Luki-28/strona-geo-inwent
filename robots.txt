@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Blokowanie niepotrzebnych plików
+Disallow: /send_mail.php
+Disallow: /.git/
+Disallow: /README.md
+
+# Pozwalanie na wszystkie istotne zasoby
+Allow: /css/
+Allow: /js/
+Allow: /img/
+
+# Sitemap
+Sitemap: https://luki-28.github.io/strona-geo-inwent/sitemap.xml
+
+# Crawl-delay dla robotów (opcjonalne)
+Crawl-delay: 1 
