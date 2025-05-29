@@ -1,4 +1,4 @@
-# 🏢 Geo-Inwent - Profesjonalne strona firmowa
+# 🏢 Geo-Inwent - Profesjonalna Strona Firmowa
 
 Nowoczesna strona internetowa dla firmy geodezyjnej Geo-Inwent, zbudowana w technologiach frontend'owych z naciskiem na responsywność, dostępność i wydajność.
 
@@ -91,8 +91,8 @@ Geo-Inwent to profesjonalna strona internetowa prezentująca usługi geodezyjne 
 1. **Klonowanie projektu**
 
 ```bash
-git clone https://github.com/twoj-repo/geo-inwent.git
-cd geo-inwent
+git clone https://github.com/luki-28/strona-geo-inwent.git
+cd strona-geo-inwent
 ```
 
 2. **Uruchomienie serwera lokalnego**
@@ -293,6 +293,6 @@ Projekt jest aktywnie utrzymywany. Zalecane regularne aktualizacje:
 
 ---
 
-**Ostatnia aktualizacja**: Maj 2025  
+**Ostatnia aktualizacja**: Styczeń 2025  
 **Wersja**: 1.0.0  
 **Kompatybilność**: PHP 7.4+, HTML5, CSS3, ES6+
