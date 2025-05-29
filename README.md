@@ -1,4 +1,4 @@
-# 🏢 Geo-Inwent - Profesjonalne usługi geodezyjne
+# 🏢 Geo-Inwent - Profesjonalne strona firmowa
 
 Nowoczesna strona internetowa dla firmy geodezyjnej Geo-Inwent, zbudowana w technologiach frontend'owych z naciskiem na responsywność, dostępność i wydajność.
 
@@ -293,6 +293,6 @@ Projekt jest aktywnie utrzymywany. Zalecane regularne aktualizacje:
 
 ---
 
-**Ostatnia aktualizacja**: Styczeń 2025  
+**Ostatnia aktualizacja**: Maj 2025  
 **Wersja**: 1.0.0  
 **Kompatybilność**: PHP 7.4+, HTML5, CSS3, ES6+
